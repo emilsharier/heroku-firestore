@@ -1,1 +1,1 @@
-console.log('First message');
+console.log(Date.now(), 'First message');
