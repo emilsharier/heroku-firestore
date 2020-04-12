@@ -1,19 +1,19 @@
 {
-  "name": "heroku-firestore",
+  "name": "knotes-heroku",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilsharier/heroku-firestore.git"
+    "url": "git+https://github.com/emilsharier/knotes-heroku.git"
   },
-  "author": "emilsharier",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emilsharier/heroku-firestore/issues"
+    "url": "https://github.com/emilsharier/knotes-heroku/issues"
   },
-  "homepage": "https://github.com/emilsharier/heroku-firestore#readme"
+  "homepage": "https://github.com/emilsharier/knotes-heroku#readme"
 }
